@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "category": "Öne Çıkan Lezzetler",
+    "name": "Özel Burger",
+    "desc": "180gr dana köfte, karamelize soğan...",
+    "price": "220"
+  },
+  {
+    "id": "2",
+    "category": "Öne Çıkan Lezzetler",
+    "name": "Tütsülenmiş Antrikot",
+    "desc": "Ağır ateşte pişmiş antrikot...",
+    "price": "450"
+  },
+  {
+    "id": "1791212014860",
+    "category": "Tatlılar",
+    "name": "Sufle",
+    "desc": "Sufle Çok İyi",
+    "price": "204"
+  }
+]
